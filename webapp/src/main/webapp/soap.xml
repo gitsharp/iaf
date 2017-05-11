@@ -9,7 +9,6 @@
 	therefore it cannot be read from the war-file.
 	Gerrit van Brakel, 2003-07-28
     -->
-	
 	<configManager value="nl.nn.adapterframework.util.SoapConfigManager">
 		<option name="filename" value="/WEB-INF/DeployedServices.xml"/>
 	</configManager>
